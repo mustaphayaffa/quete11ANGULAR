@@ -1,0 +1,20 @@
+
+
+
+{ "myCocktail" : [
+    {
+        "name": "Sex on the beach",
+        "price": 10,
+        "img": "https://resize-elle.ladmedia.fr/r/300,386,center-middle,forcey,ffffff/img/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/cocktail-bora-bora-sans-alcool-2806526/50409614-1-fre-FR/Cocktail-Bora-Bora-sans-alcool.jpg"
+    },
+     {
+        "name": "Marguarita",
+        "price": 13,
+        "img": "https://resize-elle.ladmedia.fr/r/300,386,center-middle,forcey,ffffff/img/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/margarita-2037408/9397186-12-fre-FR/Margarita.jpg"
+    },
+    {
+        "name": "Martini",
+        "price": 8,
+        "img": "https://resize-elle.ladmedia.fr/r/300,386,center-middle,forcey,ffffff/img/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/cocktail-porn-star-martini-3940493/95134722-1-fre-FR/Cocktail-Porn-Star-Martini.jpg"
+    }]
+}
